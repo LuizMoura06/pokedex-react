@@ -49,7 +49,7 @@ export default function App() {
 
   useEffect(() => {
     try { window.localStorage.setItem(FAVORITES_KEY, JSON.stringify(favorites)); }
-    catch { /* Favoritos continuam disponíveis durante esta sessão. */ }
+    catch {}
   }, [favorites]);
 
   useEffect(() => { setVisibleCount(INITIAL_COUNT); }, [search, selectedType, sortBy, favoritesOnly]);
