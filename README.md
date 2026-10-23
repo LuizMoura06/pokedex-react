@@ -34,6 +34,15 @@ npm run dev
 
 Abra o endereço indicado no terminal, normalmente `http://localhost:5173/`.
 
+## Organização do projeto
+
+- `src/App.jsx`: tela principal, pesquisa e filtros.
+- `src/components/`: cards, detalhes e lista de treinadores.
+- `src/data/`: arquivo JSON com os Pokémon e treinadores.
+- `src/index.css`: estilos da interface.
+
+
+
 ## Dados e imagens
 
 Os dados estão no arquivo `src/data/pokedex-data.json`, disponibilizado na [atividade da disciplina](https://github.com/joaopauloaramuni/desenvolvimento-e-integracao-de-aplicacoes-web/blob/main/ATIVIDADES/ATIVIDADE%2003.md).
