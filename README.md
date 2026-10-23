@@ -1,6 +1,6 @@
 # 🎮 Pokédex Explorer — React + Vite
 
-Uma Pokédex interativa da primeira geração, criada para a **Atividade 03** da disciplina **Desenvolvimento e Integração de Aplicações Web (DIAW)**, PUC Minas — 2026/2.
+Uma Pokédex interativa da primeira geração, criada para a Atividade  da disciplina **Desenvolvimento e Integração de Aplicações Web (DIAW)**, PUC Minas — 2026/2.
 
 **Autor:** Luiz Gustavo Moura e Souza
 
