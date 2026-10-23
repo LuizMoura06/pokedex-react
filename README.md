@@ -31,7 +31,7 @@ Uma Pokédex interativa da primeira geração, criada para a **Atividade 03** da
 **Pré-requisito:** Node.js 20.19+ ou 22.12+ e npm instalados.
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/LuizMoura06/pokedex-react.git
 cd pokedex-react
 npm install
 npm run dev
