@@ -4,7 +4,6 @@ Uma Pokédex interativa da primeira geração, criada para a Atividade  da disci
 
 **Autor:** Luiz Gustavo Moura e Souza
 
-> O enunciado original solicita trabalho em dupla com pair programming. Este repositório identifica apenas o autor informado. É necessário confirmar com o professor a possibilidade de entrega individual.
 
 ## Funcionalidades
 
@@ -97,4 +96,4 @@ pokedex-react/
 6. Publicar os arquivos em um repositório no GitHub (não enviar `node_modules/`).
 7. Enviar a **URL do repositório** na atividade do Canvas antes de **23/10/2026, às 23h59**.
 
-> A entrega do professor é **um link do repositório GitHub**, não um ZIP nem uma URL de demonstração.
+
